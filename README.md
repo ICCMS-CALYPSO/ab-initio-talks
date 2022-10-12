@@ -1,14 +1,16 @@
 # 第一性原理讨论小组网页
 
+**Gitlab pages link:[https://calypso-ch.gitlab.io/ab-initio-talks/ab-initio-talks](https://calypso-ch.gitlab.io/ab-initio-talks/ab-initio-talks)**
+
+## 简介
+
+## 静态网页技术支持
+
 本手册由Sphinx生成,并使用[Executable Book Project 主题](https://ebp.jupyterbook.org/),可以解析markdown与Latex公式。
 [Sphinx官网](https://www.sphinx-doc.org/en/master/)、
 [Sphinx中文手册](https://zh-sphinx-doc.readthedocs.io/en/latest/index.html)。
 
 本手册参考项目为 [phonopy手册](http://phonopy.github.io/phonopy/)。
-
-以下为与本项目相关的知识的最小合集
-
-## Sphinx
 
 ### 安装Sphinx
 
